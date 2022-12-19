@@ -66,6 +66,21 @@ Online resources:
 * Google Terms of Service      https://policies.google.com/terms
 * Google Privacy Policy        https://policies.google.com/privacy
 
+2.3 Yandex Services
+
+Collected informations:
+* Device information
+* Log information
+* Location information
+* Local storage
+
+Yandex also use this information to offer you tailored content – like giving you more relevant search results
+and ads.
+
+Online resources:
+* User Agreement for Yandex Services         https://yandex.by/legal/rules/
+* License to use Yandex Search Engine        https://yandex.by/legal/termsofuse/
+* Privacy Policy                             https://yandex.by/legal/confidential/
 
 3. Security
 
