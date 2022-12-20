@@ -76,7 +76,6 @@ Collected informations:
 * Device information
 * Log information
 * Location information
-* Local storage
 
 Yandex also use this information to offer you tailored content – like giving you more relevant search results
 and ads.
