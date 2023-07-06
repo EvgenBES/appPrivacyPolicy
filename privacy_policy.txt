@@ -66,27 +66,6 @@ Online resources:
 * Google Terms of Service      https://policies.google.com/terms
 * Google Privacy Policy        https://policies.google.com/privacy
 
-2.3 Yandex Metrica
-On our Platforms we also use Yandex Metrica from Yandex Oy Limited Company - Moreenikatu 6, 04600 Mantsala, Finland (“Yandex”). The information collected (excluding your IP address, the
-time you visit the site, the type of browser you use, the pages you
-consult and the files you download) is transferred to and stored by Yandex. Yandex is committed to and making big efforts to comply with
-GDPR (https://yandex.ru/legal/metrica_agreement/). 
-
-Collected informations:
-* Device information
-* Log information
-* Location information
-
-Yandex also use this information to offer you tailored content – like giving you more relevant search results
-and ads.
-
-Online resources:
-* User Agreement for Yandex Services         https://yandex.by/legal/rules/
-* License to use Yandex Search Engine        https://yandex.by/legal/termsofuse/
-* Privacy Policy                             https://yandex.by/legal/confidential/
-
-More information about Yandex data policy
-can be found here: https://yandex.ru/legal/confidential/?lang=en.
 
 3. Security
 
